@@ -8,11 +8,11 @@
     "docker:run": "docker run --rm -it -p 8000:8080 disney-api"
   },
   "dependencies": {
-    "body-parser": "~1.19.0",
+    "body-parser": "~1.19.2",
     "cookie-parser": "~1.4.4",
     "cors": "^2.8.5",
     "debug": "~4.1.1",
-    "express": "~4.17.1",
+    "express": "~4.17.3",
     "morgan": "~1.9.1",
     "pug": "^2.0.4",
     "serve-favicon": "~2.5.0"
